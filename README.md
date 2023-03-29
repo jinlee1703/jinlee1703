@@ -14,10 +14,12 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-61DAFB?style=flat&logo=VBA&logoColor=white" />
 
 <b>Front-End</b> : 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+<img src="https://img.shields.io/badge/Swing-F7DF1E?style=flat&logo=Swing&logoColor=white" />
 
 <b>Back-End</b> : 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
