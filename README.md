@@ -2,13 +2,6 @@
 
 ---
 
-### Career
-
-- 경북소프트웨어고등학교 기능경기대회 정보기술 직종 준비반 강사 (21.11.18. - 22. 8.26.)
-- Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
-
----
-
 ### Tech Stack
 
 <b>Language</b> : 
@@ -40,9 +33,30 @@
 
 ---
 
+### Career
+
+- 경북소프트웨어고등학교 기능경기대회 정보기술 직종 준비반 강사 (21.11.18. - 22. 8.26.)
+- Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
+
+---
+
 ### Activity
 
 - 경북기계공업고등학교 정보기술 기능영재반 (14. 3. 2. - 17. 2.10.)
 - 2022 오픈소스 컨트리뷰션 아카데미 (22. 7. 9. - 22.10.14.)
 - 부스트캠프 웹·모바일 7기 (22. 7.18. - 22.12.16.)
 - 소프트웨어 마에스트로 14기 (22. 4. 3. - )
+
+---
+
+### SNS & Portfolio
+
+<a href="mailto:binarywooo@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://jinu0137.github.io">
+  <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+</a>
+<a href="https://candy-yam-479.notion.site/Lee-Jinwoo-6f25957336cd4310853b7f8f12e6daf5">
+  <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+</a>
