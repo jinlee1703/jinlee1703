@@ -54,7 +54,7 @@
 <a href="mailto:binarywooo@gmail.com">
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://jinu0137.github.io">
+<a href="https://jinlee1703.github.io">
   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 <!-- <a href="https://candy-yam-479.notion.site/Lee-Jinwoo-6f25957336cd4310853b7f8f12e6daf5">
