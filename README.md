@@ -52,7 +52,7 @@
 
 ### SNS & Portfolio
 
-<a href="mailto:binarywooo@gmail.com">
+<a href="mailto:jinlee1703@gmail.com">
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://jinlee1703.github.io">
