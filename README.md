@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/VBA-61DAFB?style=flat&logo=VBA&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Basic-512BD4?style=flat&logo=Visual Basic&logoColor=white" />
 
 <b>Front-End</b> : 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
@@ -19,6 +19,7 @@
 <b>Back-End</b> : 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
 
 <b>Database</b> : 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -30,6 +31,10 @@
 <b>Infra</b> : 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=white" />
+
+<b>CI/CD</b> : 
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 
 ---
 
