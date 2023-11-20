@@ -66,6 +66,6 @@
 <a href="https://jinlee1703.github.io">
   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
-<!-- <a href="https://candy-yam-479.notion.site/Lee-Jinwoo-6f25957336cd4310853b7f8f12e6daf5">
+<a href="https://candy-yam-479.notion.site/Lee-Jinwoo-6f25957336cd4310853b7f8f12e6daf5">
   <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-</a> -->
+</a>
