@@ -30,14 +30,17 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 
-<b>Infra</b> : 
+<b>Deployment</b> : 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white" />
-
-<b>CI/CD</b> : 
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+
+<b>Communication</b> : 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 
 ---
 
