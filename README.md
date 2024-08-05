@@ -48,6 +48,7 @@
 
 ### Career
 
+- Naver Healthcare Digital Transformation 개발 인턴 (24. 6.24. - 24. 8.16.)
 - 경북소프트웨어고등학교 기능경기대회 정보기술 직종 준비반 강사 (21.11.18. - 22. 8.26.)
 - Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
 
