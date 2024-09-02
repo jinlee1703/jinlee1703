@@ -54,6 +54,7 @@
 
 ### Activity
 
+- 청소년 SW동행 프로젝트 대구과학고등학교 멘토 (24. 9. 1. - ing.)
 - [멋쟁이사자처럼 영남대학교 대표 (24. 3. 21. - )](https://github.com/Likelion-YeungNam-Univ)
 - [소프트웨어 마에스트로 14기 (23. 4. 3. - 23. 12. 14.)](https://github.com/SWM-REPL)
 - [영남대학교 멋쟁이사자처럼 11기 (23. 3. 23. - 23. 12. 31.)](https://github.com/Likelion-YeungNam-Univ)
