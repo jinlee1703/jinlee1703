@@ -46,6 +46,7 @@
 
 ### Career
 
+- 청소년 SW동행 프로젝트 대구과학고등학교 멘토 (24. 9. 1. - ing.)
 - [Naver Healthcare Digital Transformation 개발 인턴 (24. 6.24. - 24. 8.16.)](https://drive.google.com/file/d/1dxAEi07sVoOb3lQ9Bb-znsZfZFYQ2vl4/view?usp=sharing)
 - 경북소프트웨어고등학교 기능경기대회 정보기술 직종 준비반 강사 (21.11.18. - 22. 8.26.)
 - Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
@@ -54,7 +55,6 @@
 
 ### Activity
 
-- 청소년 SW동행 프로젝트 대구과학고등학교 멘토 (24. 9. 1. - ing.)
 - [멋쟁이사자처럼 영남대학교 대표 (24. 3. 21. - )](https://github.com/Likelion-YeungNam-Univ)
 - [소프트웨어 마에스트로 14기 (23. 4. 3. - 23. 12. 14.)](https://github.com/SWM-REPL)
 - [영남대학교 멋쟁이사자처럼 11기 (23. 3. 23. - 23. 12. 31.)](https://github.com/Likelion-YeungNam-Univ)
