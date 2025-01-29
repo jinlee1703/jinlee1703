@@ -55,7 +55,7 @@
 
 ### Activity
 
-- [멋쟁이사자처럼 영남대학교 대표 (24. 3. 21. - 24.12.31.)](https://github.com/Likelion-YeungNam-Univ)
+- [멋쟁이사자처럼 영남대학교 대표 (24. 1. 1. - 24.12.31.)](https://github.com/Likelion-YeungNam-Univ)
 - [소프트웨어 마에스트로 14기 (23. 4. 3. - 23.12.14.)](https://github.com/SWM-REPL)
 - [영남대학교 멋쟁이사자처럼 11기 (23. 3.23. - 23.12.31.)](https://github.com/Likelion-YeungNam-Univ)
 - [네이버 부스트캠프 웹·모바일 7기 (22. 7.18. - 22.12.16.)](https://github.com/boostcampwm-2022)
