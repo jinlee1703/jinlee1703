@@ -65,6 +65,12 @@
 
 ---
 
+### Opensource Contribution
+
+- [OpenSearch #18254](https://github.com/opensearch-project/OpenSearch/pull/18254)  
+  : `matrix_stats` aggregation에서 `multi_value_mode` 적용 시 캐시 비활성화 문제 수정
+---
+
 ### SNS & Portfolio
 
 <a href="mailto:jinlee1703@gmail.com">
