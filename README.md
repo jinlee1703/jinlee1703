@@ -69,6 +69,10 @@
 
 - [OpenSearch #18254](https://github.com/opensearch-project/OpenSearch/pull/18254)  
   : `matrix_stats` aggregation에서 `multi_value_mode` 적용 시 캐시 비활성화 문제 수정
+
+- [spring-ai #4131](https://github.com/spring-projects/spring-ai/pull/4131)  
+  : `similaritySearch` 중 메타데이터 불변으로 발생하던 `UnsupportedOperationException` 해결 
+
 ---
 
 ### SNS & Portfolio
