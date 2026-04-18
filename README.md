@@ -36,7 +36,7 @@
 
 ### Career
 
-- 강남언니 KOS 스쿼드 백엔드 엔지니어 (25.10.31. - ing)
+- 강남언니 KOS팀 백엔드 엔지니어 (25.10.31. - ing)
 - [Naver Healthcare Digital Transformation 개발 인턴 (24. 6.24. - 24. 8.16.)](https://naver.worksmobile.com/cases/navercare/)
 
 ---
