@@ -7,8 +7,6 @@
 - 강남언니 KOS팀 백엔드 엔지니어 (25.10.31. - ing)
 - [Naver Healthcare Digital Transformation 개발 인턴 (24. 6.24. - 24. 8.16.)](https://naver.worksmobile.com/cases/navercare/)
 
----
-
 ### Activity
 
 - 청소년 SW동행 프로젝트 대구과학고등학교 멘토 (24. 9. 1. - 24.11.30.)
@@ -21,17 +19,10 @@
 - Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
 - 경북기계공업고등학교 정보기술 기능영재반 (14. 3. 2. - 17. 2.10.)
 
----
-
 ### Opensource Contribution
 
-- [OpenSearch #18254](https://github.com/opensearch-project/OpenSearch/pull/18254)  
-  : `matrix_stats` aggregation에서 `multi_value_mode` 적용 시 캐시 비활성화 문제 수정
-
-- [spring-ai #4131](https://github.com/spring-projects/spring-ai/pull/4131)  
-  : `similaritySearch` 중 메타데이터 불변으로 발생하던 `UnsupportedOperationException` 해결 
-
----
+- [OpenSearch #18254](https://github.com/opensearch-project/OpenSearch/pull/18254): `matrix_stats` aggregation에서 `multi_value_mode` 적용 시 캐시 비활성화 문제 수정
+- [spring-ai #4131](https://github.com/spring-projects/spring-ai/pull/4131)  : `similaritySearch` 중 메타데이터 불변으로 발생하던 `UnsupportedOperationException` 해결 
 
 ### SNS & Portfolio
 
